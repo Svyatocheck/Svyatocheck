@@ -60,13 +60,13 @@ I am a Beginner Android developer <img src="https://media.giphy.com/media/llarwd
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Svyatocheck&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Svyatocheck&theme=gotham)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svyatocheck&langs_count=8&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svyatocheck&langs_count=8&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Svyatoslav&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Svyatoslav&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!---
