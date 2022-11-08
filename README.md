@@ -31,11 +31,9 @@ https://img.shields.io/badge/-telegram-blue?logo=telegram&logoColor=white&style=
 ---
 
 ### :man_technologist: About Me :
-I am a Beginner Android developer <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="30"> from Russia.
+I am a CS student from Russia.
 
-- :mortar_board: I’m studying for my CS degree.
-
-- :seedling: Exploring android development and software engineering in general.
+- :seedling: Exploring android development; math for DS and ML; software engineering in general.
 
 - 📘 In my free time, I read tech books and articles.
 
@@ -66,7 +64,7 @@ I am a Beginner Android developer <img src="https://media.giphy.com/media/llarwd
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svyatocheck&langs_count=8&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Svyatoslav&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Svyatoslav&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!---
