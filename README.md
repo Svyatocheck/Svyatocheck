@@ -22,11 +22,6 @@ https://img.shields.io/badge/-telegram-blue?logo=telegram&logoColor=white&style=
   </h1>
 </div>
 
-<!-- Part two -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
-</div>
-
 
 ---
 
