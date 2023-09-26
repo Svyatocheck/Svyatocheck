@@ -4,7 +4,7 @@ I'm Svyat!
 
 I'm a master's student from Russia who has already done a bunch of cool projects in Python and Kotlin.
 
-Now I'm working in Data Science and starting to study ML at university. 
+Now I'm working in Data Science and starting to study ML at ITMO university. 
 <!--
 **Svyatocheck/Svyatocheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
